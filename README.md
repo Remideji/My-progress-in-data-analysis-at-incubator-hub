@@ -48,8 +48,33 @@
   - Github for Portfolio Building
   - Microsoft Power BI
 
-### Microsoft Excel [#### Download here](https://www.microsoft.com)
+### Microsoft Excel [Download here](https://www.microsoft.com)
+---
+Excel is a spreadsheet application used to store,manage and analyse Data
+
+
+- #### Essentials Features learned
+   1.Pivot tables and pivot charts
+   2.Conditional formatting
+   3. Functions
+      1. Sumif
+      2. Average
+      3. Highest
+      4. Max.
+      5. Lowest
+      6. Count
+      7. CountA
+      8. Vlookup
+      9. Match
+      10.Index
+      11.Dashboard
   
+       
+
+
+
+
+
 
 
 
