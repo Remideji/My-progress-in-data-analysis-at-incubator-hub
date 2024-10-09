@@ -6,4 +6,4 @@
 ### My Outinline
 - [Data Analysis Overview](data-analysis-overview)
 
-  - [What data Anlysis is all about](what-data-is-all-about)
+- [What data Anlysis is all about](what-data-is-all-about)
