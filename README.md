@@ -52,8 +52,6 @@
 ---
 Excel is a spreadsheet application used to store,manage and analyse Data
 
-Excel Functions 1 - Numbers.xlsx
-
 - #### Essentials Features learned
    - Pivot tables and pivot charts
    - Conditional formatting
