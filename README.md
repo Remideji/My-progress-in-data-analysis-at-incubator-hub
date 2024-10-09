@@ -8,15 +8,15 @@
 
 - [What Data Analysis is all about](#what-data-is-all-about)
 
-- [Forms of Storing Data](forms-of-storing-data)
+- [Forms of Storing Data](#forms-of-storing-data)
 
-- [Life cycle of Data Analysis](life-cycle-of-data-analysis)
+- [Life cycle of Data Analysis](#life-cycle-of-data-analysis)
 
-- [Tools For Data Analysis learned](tools-for-data-anaysis-learned)
+- [Tools For Data Analysis learned](#tools-for-data-anaysis-learned)
 
-- [Microsoft Excel](microsoft-excel)
+- [Microsoft Excel](#microsoft-excel)
 
-- [Structured Query Language for Querying](structured-query-language-for-querying)
+- [Structured Query Language for Querying](#structured-query-language-for-querying)
 
 ### What Data Analysis is all About
 ---
