@@ -6,7 +6,7 @@
 ### My Outinline
 ---
 
-- [What Data Analysis is all about](what-data-is-all-about)
+- [What Data Analysis is all about](#what-data-is-all-about)
 
 - [Forms of Storing Data](forms-of-storing-data)
 
