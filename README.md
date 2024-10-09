@@ -54,20 +54,20 @@ Excel is a spreadsheet application used to store,manage and analyse Data
 
 
 - #### Essentials Features learned
-   1.Pivot tables and pivot charts
-   2.Conditional formatting
-   3. Functions
-      1. Sumif
-      2. Average
-      3. Highest
-      4. Max.
-      5. Lowest
-      6. Count
-      7. CountA
-      8. Vlookup
-      9. Match
-      10.Index
-      11.Dashboard
+   - Pivot tables and pivot charts
+   - Conditional formatting
+   - Functions
+     1. Sumif
+     2. Average
+     3. Highest
+     4. Max
+     5. Lowest
+     6. Count
+     7. Vlookup
+     8. Match
+     9. Index
+  - Dashboard
+  
   
        
 
